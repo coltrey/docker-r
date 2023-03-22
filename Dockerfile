@@ -20,6 +20,7 @@ RUN for pkg in \
     ggthemes \
     httr \
     lubridate \
+    pandoc \
     plotly \
     plyr \
     purrr \
